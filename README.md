@@ -9,7 +9,7 @@ Public health initiatives aimed at improving healthcare systems in low- and midd
 Email: jiregnaolani.kedida@ubep.unipd.it, jiregnaolani.kedida@studenti.unipd.it
 LinkedIn: (https://www.linkedin.com/in/jiregna-olani-kedida-45380198/)
 Orcid: (https://orcid.org/my-orcid?orcid=0000-0002-5877-7977)
-Scopus Author ID: 57833852500
+Scopus Author ID: [57833852500] (https://www.scopus.com/authid/detail.uri?authorId=57833852500)
 😄 Pronouns: He/Him
 ⚡ Fun fact: When I’m not analyzing data or working on healthcare innovations, you can find me exploring scenic hiking trails, cooking traditional Ethiopian dishes, or immersing myself in the history and culture of different countries.
 <!---
