@@ -7,7 +7,7 @@ Interdisciplinary studies combining data science, cardiology, and biomedical eng
 Public health initiatives aimed at improving healthcare systems in low- and middle-income countries.
 📫 How to reach me:
 Email: jiregnaolani.kedida@ubep.unipd.it, jiregnaolani.kedida@studenti.unipd.it
-LinkedIn: [[Insert your LinkedIn profile link]](https://www.linkedin.com/in/jiregna-olani-kedida-45380198/)
+LinkedIn: (https://www.linkedin.com/in/jiregna-olani-kedida-45380198/)
 Orcid: 0000-0002-5877-7977
 😄 Pronouns: He/Him
 ⚡ Fun fact: When I’m not analyzing data or working on healthcare innovations, you can find me exploring scenic hiking trails, cooking traditional Ethiopian dishes, or immersing myself in the history and culture of different countries.
