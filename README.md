@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jiregna Olani
+# 👋 Hi, I’m Jiregna Olani Kedida
 
 📊 **Biostatistician & Clinical Epidemiology Researcher** passionate about applying **statistics, AI, machine learning, and federated learning** to improve healthcare and patient outcomes.
 
@@ -19,6 +19,6 @@ Open to **international and interdisciplinary collaborations** in biostatistics,
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
 
 📫 **Connect with me:**
-[LinkedIn](https://www.linkedin.com/in/jiregna-olani-kedida-45380198/) • [ORCID](https://orcid.org/0000-0002-5877-7977) • 📚 Scopus ID: `57833852500`
+[LinkedIn](https://www.linkedin.com/in/jiregna-olani-kedida-45380198/) • [ORCID](https://orcid.org/0000-0002-5877-7977) • 📚 Scopus ID: `57833852500` • [Email] (jiregnaolani.kedida@ubep.unipd.it), (jiregnaolani.kedida@studenti.unipd.it), (jiregnaolani.kedida@phd.unipd.it)
 
 ⚡ **Beyond research:** 🥾 Hiking • 🍲 Ethiopian cuisine • 🌍 Exploring cultures & history
